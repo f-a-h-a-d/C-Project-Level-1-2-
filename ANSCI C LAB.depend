@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1569351481 source:c:\users\fahadpc\desktop\ansci c lab\loading.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1564861100 source:c:\users\fahadpc\desktop\ansci c lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1569344508 source:c:\users\fahadpc\desktop\ansci c lab\login_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1569344581 source:c:\users\fahadpc\desktop\ansci c lab\contact_system.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1569349061 source:c:\users\fahadpc\desktop\ansci c lab\login_password.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1564862018 source:c:\users\fahadpc\desktop\my files\ansci c lab\contact_system.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1564861912 source:c:\users\fahadpc\desktop\my files\ansci c lab\loading.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1564861912 source:c:\users\fahadpc\desktop\my files\ansci c lab\login_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1564861100 source:c:\users\fahadpc\desktop\my files\ansci c lab\login_password.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1564861100 source:c:\users\fahadpc\desktop\my files\ansci c lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1564726838 source:c:\users\fahadpc\desktop\my files\ansci c lab\user_contact.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1564726838 source:c:\users\fahadpc\desktop\ansci c lab\user_contact.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1569348528 source:c:\users\fahadpc\desktop\ansci c lab\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
